@@ -1,1 +1,1 @@
-3196add0-fa06-4658-8c48-6f63d1983a10 bucket=cloud-3196add0-fa06-4658-8c48-6f63d1983a10 chunk=1MiB datacenter=US encryption=none host=s3.amazonaws.com name=cloud port=80 storageclass=STANDARD type=S3 timestamp=1500585708.175565889s
+3196add0-fa06-4658-8c48-6f63d1983a10 bucket=cloud-3196add0-fa06-4658-8c48-6f63d1983a10 chunk=1MiB datacenter=US encryption=none host=s3.amazonaws.com name=cloud port=80 storageclass=STANDARD type=S3 timestamp=1500585886.488643761s
